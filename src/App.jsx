@@ -7,7 +7,8 @@ function App() {
       <header className="App-header">
         <img src={reactLogo} className="logo react" alt="React logo" />
 
-        <h1>Hello from Amdplify</h1>
+        <h1>Hello from Amd  text lify</h1>
+        <h2>texting this app</h2>
       </header>
     </div>
   );
